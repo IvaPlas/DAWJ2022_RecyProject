@@ -177,6 +177,20 @@ const data = [
   },
 
   {
+    type: 'zálohovanie fliaš a plechoviek od nápojov',
+    list: [
+      'plastové nápojové fľaše označené symbolom a textom ZÁLOHOVANÉ',
+      'nápojové plechovky označené symbolom a textom ZÁLOHOVANÉ',
+    ],
+
+    symbols: ['Z', 'z'],
+
+    notes: [
+      'Zálohované nápojové obaly musia byť do zberných automatov umiestnené nestlačené, bez zvyškovej tekutiny, s čitateľným čiarovým kódom a odporúča sa odovzdávať ich uzatvorené pôvodným uzáverom. Do zálohového systému patria nápojové obaly s objemom od 0,1 do 3 l (vrátane).',
+    ],
+  },
+
+  {
     type: 'plasty',
     list: [
       'plastové fľaše',
